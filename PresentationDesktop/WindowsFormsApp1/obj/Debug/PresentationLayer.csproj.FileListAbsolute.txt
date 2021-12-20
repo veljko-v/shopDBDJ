@@ -1,0 +1,16 @@
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\BusinessLayer.dll
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\DataLayer.dll
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\BusinessLayer.pdb
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\bin\Debug\DataLayer.pdb
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DJIN\Downloads\kol\shopdb\PresentationDesktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

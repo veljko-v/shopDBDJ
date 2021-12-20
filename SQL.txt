@@ -1,0 +1,12 @@
+CREATE TABLE [dbo].[Products] (
+    [Id]          INT             IDENTITY (1, 1) NOT NULL,
+    [Name]        NVARCHAR (50)   NOT NULL,
+    [Description] NVARCHAR (2000) NULL,
+    [ExpiryDate]  DATETIME        NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+SET IDENTITY_INSERT [dbo].[Products] ON
+INSERT INTO [dbo].[Products] ([Id], [Name], [Description], [ExpiryDate]) VALUES (1, N'Pivo', N'aaaa', N'2022-01-30 00:00:00')
+INSERT INTO [dbo].[Products] ([Id], [Name], [Description], [ExpiryDate]) VALUES (2, N'Sladoled', N'coko moko', N'2022-02-25 00:00:00')
+SET IDENTITY_INSERT [dbo].[Products] OFF
